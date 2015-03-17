@@ -1,0 +1,18 @@
+Script started on 2015年03月17日 (週二) 13時32分46秒
+]0;F74036289@2015cpp: ~F74036289@2015cpp:~$ whoami; pwd
+F74036289
+/home/F74036289
+]0;F74036289@2015cpp: ~F74036289@2015cpp:~$  git config ‐l
+git: 'config ‐l' is not a git command. See 'git --help'.
+]0;F74036289@2015cpp: ~F74036289@2015cpp:~$ whoami; pwd[Kwhoami; pwdscript lab1.script[7Pwhoami; pwd[K git config ‐l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pl[1P l- l[1P l- l[C[1Pl -l
+git: 'confi' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+]0;F74036289@2015cpp: ~F74036289@2015cpp:~$ whoami; pwd[Kgit com[Knfig -l
+]0;F74036289@2015cpp: ~F74036289@2015cpp:~$  git clone https://github.com/<your github account>/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitn/lab1.gitc/lab1.gitk/lab1.gitu/lab1.gith/lab1.gita/lab1.gitr/lab1.gitd/lab1.gite/lab1.gitn/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036289@2015cpp: ~F74036289@2015cpp:~$ exit
+
+Script done on 2015年03月17日 (週二) 13時34分48秒
